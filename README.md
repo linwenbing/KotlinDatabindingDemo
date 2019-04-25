@@ -1,0 +1,2 @@
+# KotlinDatabindingDemo
+Kotlin中使用Databinding的demo，主要是配置Databinding
